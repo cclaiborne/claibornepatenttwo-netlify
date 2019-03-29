@@ -45,7 +45,7 @@ const HomePageTemplate = ({
                     {heading}
                   </h3>
                   <p>{description}</p>
-                  <img src = "http://www.claibornepatent.com/patent.jpeg" />
+                  <img src="/img/patent.jpeg"/>
                 </div>
                 <h2 className='has-text-weight-semibold is-size-2'>Testimonials</h2>
                 <Testimonials testimonials={testimonials} />
