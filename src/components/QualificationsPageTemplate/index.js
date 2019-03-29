@@ -45,7 +45,7 @@ const QualificationsPageTemplate = ({title, content, contentComponent, captionte
               </div>
             </div>
             <div className='column is-4 is-offset-0'>
-              <div id="boxshadow"><img   src="http://www.claibornepatent.com/picture.jpg"></img>Anthony Claiborne, Registered Patent Attorney</div>
+              <div id="boxshadow"><img hspace= "5" width= "100px" height= "100px" src="/img/anthony.jpg"></img>Anthony Claiborne, Registered Patent Attorney</div>
             </div>
           </div>
         </div>
